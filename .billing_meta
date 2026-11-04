@@ -1,0 +1,3 @@
+# Implementation of usage-based billing in the agent core.
+# This allows the agent to capture USD cost from LLM responses and report them to the billing site.
+# See the detailed PR description for specific changes to llm.py and the new billing module.
